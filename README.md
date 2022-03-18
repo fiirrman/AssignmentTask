@@ -5,7 +5,7 @@ Simple Get User Github Application
 
 DESCRIPTION
 
-This application for search for github user with keyword
+This application search for github user with keyword
 
 - Search with any keyword
 - Can retrieve data until its return max
