@@ -1,4 +1,4 @@
-# AssignmentTask
+# Assignment Task
 
 
 Simple Get User Github Application
